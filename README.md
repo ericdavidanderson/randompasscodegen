@@ -4,7 +4,7 @@ Raddom password generator
 
 ### Description
 
-![](./pass.GIF)
+![](./pass.gif)
 
 This page will allow the user to generate a password using criteria of the following:
 Password length:  8-128 characters
